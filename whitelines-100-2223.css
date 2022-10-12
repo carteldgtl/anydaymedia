@@ -74,6 +74,7 @@ blockquote p em {
 .aside-facts {
 	padding: 15px;
 	max-width: 100%;
+	width: auto;
 	float: none;
 }
 .aside-facts li,
