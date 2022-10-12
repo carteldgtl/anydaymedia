@@ -62,8 +62,8 @@ blockquote p,
 blockquote p em,
 blockquote p, 
 blockquote p em {
-	font-size: 1.4rem;
-	color: #75cfe5;
+	font-size: 1.5rem;
+    	color: #000000;
 	font-weight: 700;
 }
 
