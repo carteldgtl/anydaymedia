@@ -1,0 +1,69 @@
+.green-gear-header {
+    background-size: cover;
+}
+
+.green-gear-header .c-lander-heading {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.green-gear-header .c-lander-video__video-wrapper {
+    z-index: 0;
+}
+
+.green-gear-header .c-lander-video__content {
+    z-index: 1;
+}
+
+.green-gear-header .c-lander-video__content img {
+    height: 60vh;
+    max-width: unset;
+}
+
+.lander-sections {
+    background: #93c285;
+}
+
+.green-gear-intro {
+    background: #133f1e;
+    border-top: 3px solid #ffcc00;
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+    margin-bottom: 30px;
+}
+
+.green-gear-intro .c-card__title {
+    font-size: 1.8rem!important;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.green-gear-intro .c-card__content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.c-site-footer {
+    margin-top: 0;
+}
+
+.c-card__title-wrapper {
+    text-align: center;
+}
+
+.c-card__title-link {
+    color: #133f1e;
+    text-transform: uppercase;
+}
+
+.c-card__title span {
+    display: block;
+    font-weight: normal;
+    margin-top: 5px;
+    font-size: 1.3rem;
+}
+
+.o-lander--post-cards .c-card {
+    border-bottom: 1px solid #133f1e;
+}
