@@ -37,5 +37,11 @@
 @media only screen and (max-width: 768px) {
 
  .whitelines-100__header-logo {
+	 {
 		background: url("https://whitelines-static.s3.amazonaws.com/assets/2022/logo/home-page-tab_mobile_logo.png") no-repeat center center/contain;
 	}
+	.t-site-homepage--buyers-guide {
+	height: 468px;
+	max-height: 468px;
+	}
+}
