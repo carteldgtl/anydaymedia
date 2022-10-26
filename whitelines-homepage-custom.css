@@ -40,7 +40,7 @@
 	 {
 		background: url("https://whitelines-static.s3.amazonaws.com/assets/2022/logo/home-page-tab_mobile_logo.png") no-repeat center center/contain;
 	}
-.t-site-homepage--buyers-guide {
+.t-site-homepage--buyers-guide-height {
 	height: 468px;
 	max-height: 468px;
 	}
@@ -48,7 +48,7 @@
 
 	@media only screen and (min-width: 768px) {
 
-.t-site-homepage--buyers-guide {
+.t-site-homepage--buyers-guide-height {
 	height: 800px;
 	max-height: 800px;
 	}
