@@ -45,3 +45,11 @@
 	max-height: 468px;
 	}
 }
+
+	@media only screen and (min-width: 768px) {
+
+.t-site-homepage--buyers-guide {
+	height: 800px;
+	max-height: 800px;
+	}
+}
