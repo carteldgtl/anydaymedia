@@ -3,6 +3,10 @@
 	margin-bottom: 5px;
 }
 
+.wl100-banner-height {
+	 	height:800px;
+	}
+
 @media only screen and (max-width: 768px) {
  .whitelines-100-video {
 		height: 500px;
@@ -13,6 +17,9 @@
  .c-lander-video__content {
 		width: 100%;
 		padding: 0 15px;
+	}
+ .wl100-banner-height {
+	 	height:468px; !important;
 	}
 }
 
@@ -39,17 +46,5 @@
  .whitelines-100__header-logo {
 	 {
 		background: url("https://whitelines-static.s3.amazonaws.com/assets/2022/logo/home-page-tab_mobile_logo.png") no-repeat center center/contain;
-	}
-.t-site-homepage--buyers-guide-height {
-	height: 468px;
-	max-height: 468px;
-	}
-}
-
-	@media only screen and (min-width: 769px) {
-
-.t-site-homepage--buyers-guide-height {
-	height: 800px;
-	max-height: 800px;
 	}
 }
