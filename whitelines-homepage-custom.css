@@ -8,6 +8,11 @@
 		max-height: 800px;
 	}
 
+.logo-clickable-area {
+		width: 500px !important;
+    		height: 705px !important;
+}
+
 @media only screen and (max-width: 768px) {
  .whitelines-100-video {
 		height: 500px;
@@ -21,6 +26,10 @@
 	}
  .wl100-banner-height {
 	 	height:468px !important;
+	}
+.logo-clickable-areas{
+		width: 300px !important;
+    		height: 372px !important;
 	}
 }
 
