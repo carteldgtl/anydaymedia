@@ -1,0 +1,425 @@
+body .t-100--section-top {
+	background: url("https://mpora-static.s3.amazonaws.com/ski100/kBwn7RmA.jpeg") no-repeat center center/cover;
+	color: #fff;
+	text-align: center;
+	padding-top: 75px;
+	padding-bottom: 40px;
+}
+
+body .c-card__title-inner {
+	padding: 0;
+}
+body .t-100--section-top h2{
+	font-size: 1.2rem;
+	text-transform: uppercase;
+}
+
+body .t-100--section-top-under {
+	background: #000;
+	color: #fff;
+	text-align: center;
+	padding: 15px 40px;
+}
+
+body .t-100--section-top-under h3 {
+	text-transform: uppercase;
+	font-size: 1.8rem;
+}	
+
+
+body .t-100--section-top-under p {
+	font-weight: 700;
+}
+
+body .t-100--section-top-under p {
+	color: #656565;
+}	
+
+body .whitelines-100-video {
+	height: 30vw;
+}
+
+body .t-section-wrapper.t-page-head {
+	padding: 0 15px;
+	text-align: center;
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Video-Background.jpg") no-repeat center center/cover !important;
+}
+
+body .t-section-wrapper.t-page-head .c-card__wrapper {
+	width: 100%;
+}
+
+body .t-section-wrapper.t-page-head .c-card__title-inner {
+	text-align: center;
+}
+
+body .t-section-wrapper.t-page-head iframe {
+	margin: 0 auto;
+}
+
+body .t-section-wrapper.t-page-head h2,
+body .t-section-wrapper.t-page-head p {
+	max-width: 800px;
+	margin: 0 auto 25px auto;
+}
+
+.videowrapper-outer {
+	max-width: 1200px;
+	margin: 0 auto 30px;
+}
+.videowrapper {
+	float: none;
+	clear: both;
+	width: 100%;
+	position: relative;
+	padding-bottom: 53.33%;
+	padding-top: 25px;
+	height: 0;
+}
+
+.videowrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+@media only screen and (max-width: 768px) {
+	body .whitelines-100-video {
+		height: 500px;
+	}
+	body .c-lander-video__video {
+		height: 500px;
+	}
+	body .c-lander-video__content {
+		width: 100%;
+		padding: 0 15px;
+	}
+}
+body .t-100--section-top h2:before {
+	background: url("https://mpora-static.s3.amazonaws.com/ski100/Ski_100_Logo_2020_Sponsored_Black.png") no-repeat center center/100%;
+	content: "";
+	display:block;
+	margin: 0 auto;
+	width: 250px;
+	height: 360px;
+	margin-bottom: 15px;
+}
+
+body .t-100--section-top p {
+	font-size: 0.7rem;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+body .whitelines-100-head p{
+	max-width: 980px;
+	margin: 0 auto 60px;
+	width: 100%;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+body .c-card__content ul {
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+	border-top: 3px solid #fff;
+	border-bottom: 3px solid #fff;
+	float: left;
+	width: 100%;
+}
+
+body .c-card__content li {
+	list-style: none;
+	display:block;
+	float:left;
+	width: 16.666%;
+	height: 110px;
+	background-color: #000;
+	min-height: 120px;
+	overflow: hidden;
+	position: relative;
+}
+body .c-card__content li:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	background-color: #000;
+	opacity: 1;
+	transition: opacity 1s;
+	z-index: 1;
+}
+
+body .c-card__content li a {
+	display: block;
+	text-indent: -3000px;
+	overflow: hidden;
+	height: 100%;
+	transition: all 1s;
+	margin: 0 auto !important;
+	max-width: 240px;
+	position: relative;
+	z-index: 2;
+
+}
+
+body .c-card__content li:hover:before {
+	opacity: 0.3;
+}
+body .c-card__content li a:hover {
+	transform:scale(1.25);
+}
+
+body .c-card__content li.n-snowboards a {
+	background: url(https://whitelines-static.s3.amazonaws.com/assets/2019/100/Title_nav_Icon_Snowboards.png) no-repeat center center/80% auto;
+}
+
+body .c-card__content li.n-bindings a {
+	background: url(https://whitelines-static.s3.amazonaws.com/assets/2019/100/Title_nav_Icon_Bindings.png) no-repeat center center/80% auto;
+}
+
+body .c-card__content li.n-boots a {
+	background: url(https://whitelines-static.s3.amazonaws.com/assets/2019/100/Title_nav_Icon_Boots.png) no-repeat center center/80% auto;
+}
+
+body .c-card__content li.n-outerwear a {
+	background: url(https://whitelines-static.s3.amazonaws.com/assets/2019/100/Title_nav_Icon_Outerwear.png) no-repeat center center/80% auto;
+}
+
+body .c-card__content li.n-apparel a {
+	background: url(https://whitelines-static.s3.amazonaws.com/assets/2019/100/Title_nav_Icon_Apparel.png) no-repeat center center/80% auto;
+}
+
+body .c-card__content li.n-accessories a {
+	background: url(https://whitelines-static.s3.amazonaws.com/assets/2019/100/Title_nav_Icon_Accessories.png) no-repeat center center/80% auto;
+}
+
+body .t-section-wrapper.t-section-head {
+	background: #030303;
+	color: #000;
+	float: left; 
+	width: 100%;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	box-shadow: none;
+}
+
+body .t-section-wrapper.t-section-head h3 {
+	display: inline-block;
+	font-size: 2.4rem;
+	width: 100%;
+	max-width: 40%;
+	border-bottom: 3px solid #070B3B;
+	text-transform: uppercase;
+	margin: 0 0 15px 0;
+	padding-left: 5%;
+	padding-bottom: 20px;
+	float: left;
+	color: #FFF;
+}
+
+body .t-section-wrapper.t-section-head.pull-right h3 {
+	padding-right: 5%;
+	padding-left: 0;
+	padding-bottom: 20px;
+	float: right;
+	color: #FFF;
+}
+
+body .t-section-wrapper.t-section-head .desc {
+	display: inline-block;
+	max-width: 30%;
+	padding-left: 5%;
+	float: left; 
+	clear: left;
+	color: #FFF;
+
+}
+
+body .t-section-wrapper.t-section-head.pull-right .desc {
+	float: right;
+	clear: right;
+	padding-right: 5%;
+	padding-left: 0;
+}
+
+body .t-section-wrapper.t-section-head {
+	color: #fff;
+	text-decoration: none;
+}
+
+body .t-section-wrapper.section--one {
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_1_Desktop.jpg") no-repeat center bottom/cover ;
+}
+
+body .t-section-wrapper.section--two {
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_2_Desktop.jpg") no-repeat center bottom/cover ;
+}
+
+body .t-section-wrapper.section--three {
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_3_Desktop.jpg") no-repeat center bottom/cover ;
+}
+
+body .t-section-wrapper.section--four {
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_4_Desktop.jpg") no-repeat center bottom/cover ;
+}
+
+body .t-section-wrapper.section--five {
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_5_Desktop.jpg") no-repeat center bottom/cover ;
+}
+
+body .o-lander--post-cards {
+	padding-bottom: 0;
+	margin-bottom: 0;
+	padding-top: 20px;
+	background: #000;
+}
+
+body .o-lander--post-cards .o-col-md--4 .c-card {
+	min-height: auto !important;
+}
+body .o-lander--post-cards .c-card__wrapper  {
+	background: #030303 !important;
+}
+body .o-lander--post-cards .c-card__wrapper .c-card {
+	background: #030303 ;
+	box-shadow: none;
+}
+
+body .c-card__media-wrapper {
+	padding: 0px 10px;
+}
+
+body .o-lander--post-cards .c-card__title-wrapper .c-card__title-inner{
+	background: #030303;
+	color: #fff;
+	padding: 0;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+body .o-lander--post-cards .o-grid-full-width {
+	background: #030303;
+}
+
+body .c-card__title-wrapper {
+	padding-bottom: 15px;
+}
+
+body .c-card__wrapper .c-card__title {
+	border-bottom: 1px solid #989898;
+    margin: 0 15px;
+    padding-bottom: 0;
+}
+
+body .c-card__wrapper:hover .c-card__title {
+	background: none;
+	-webkit-text-fill-color: initial;
+}
+
+body .o-lander--post-cards:before {
+	height: 0px;
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+
+	body .c-card__content li {
+		width: 33.333%;
+	}
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+
+	body .c-card__content li {
+		width: 50%;
+	}
+
+	body .t-section-wrapper.t-section-head h3 {
+		max-width: 80%;
+		font-size: 2rem;
+	}
+} 
+
+@media only screen and (max-width: 768px) {
+
+	body .c-card__title-wrapper .c-card__title-inner a span{ 
+		line-height: 1.4rem;
+	}
+
+	body .c-card__content li {
+		width: 100%;
+		border-bottom: 2px solid #fff;
+	}
+
+	body .t-section-wrapper.t-section-head .desc {
+		max-width: 100%;
+	}
+
+	body .t-section-wrapper.t-section-head {
+		padding-top: 30px;
+		padding-bottom: 220px;
+	}
+
+	body .t-section-wrapper.t-page-head {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	body .t-section-wrapper.t-section-head h3 {
+		max-width: 80%;
+		font-size: 1.8rem;
+	}
+
+	body .c-card__title-wrapper .c-card__title-inner a {
+		font-size: 1.15rem;
+	}
+
+	body .t-section-wrapper.section--one {
+		background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_1_Mobile.jpg") no-repeat center bottom/100% auto ;
+	}
+
+	body .t-section-wrapper.section--two {
+		background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_2_Mobile.jpg") no-repeat center bottom/100% auto ;
+	}
+
+	body .t-section-wrapper.section--three {
+		background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_3_Mobile.jpg") no-repeat center bottom/100% auto ;
+	}
+
+	body .t-section-wrapper.section--four {
+		background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_4_Mobile.jpg") no-repeat center bottom/100% auto ;
+	}
+
+	body .t-section-wrapper.section--five {
+		background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_5_Mobile.jpg") no-repeat center bottom/100% auto ;
+	}
+
+	body .t-section-wrapper.t-section-head .desc,
+	body .t-section-wrapper.t-section-head h3,
+	body .t-section-wrapper.t-section-head.pull-right .desc,
+	body .t-section-wrapper.t-section-head.pull-right h3 {
+		padding: 0 0 15px;
+		text-align: left;
+		border-color: #fff;
+		width: auto;
+		max-width: initial;
+		margin: 0 15px 15px;
+	}
+} 
+
+@media only screen and (min-width: 1468px) {
+
+	body .t-section-wrapper.t-section-head {
+		padding-top: 120px;
+		padding-bottom: 120px;
+	}
+
+	body .t-section-wrapper.t-section-head .desc {
+		max-width: 40%;
+	}
+}
