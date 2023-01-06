@@ -1,5 +1,5 @@
 body .t-100--section-top {
-	background: url(“https://mpora-static.s3.amazonaws.com/ski100/kBwn7RmA.jpeg”) no-repeat center center/cover;
+	background: url("https://mpora-static.s3.amazonaws.com/ski100/kBwn7RmA.jpeg") no-repeat center center/cover;
 	color: #fff;
 	text-align: center;
 	padding-top: 75px;
@@ -34,7 +34,7 @@ body .whitelines-100-video {
 body .t-section-wrapper.t-page-head {
 	padding: 0 15px;
 	text-align: center;
-	background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Video_BG.jpg?fit=crop”) no-repeat center center/cover !important;
+	background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Video_BG.jpg?fit=crop") no-repeat center center/cover !important;
 }
 body .t-section-wrapper.t-page-head .c-card__wrapper {
 	width: 100%;
@@ -83,8 +83,8 @@ body .t-section-wrapper.t-page-head p {
 	}
 }
 body .t-100--section-top h2:before {
-	background: url(“https://mpora-static.s3.amazonaws.com/ski100/Ski_100_Logo_2020_Sponsored_Black.png”) no-repeat center center/100%;
-	content: “”;
+	background: url("https://mpora-static.s3.amazonaws.com/ski100/Ski_100_Logo_2020_Sponsored_Black.png") no-repeat center center/100%;
+	content: "";
 	display:block;
 	margin: 0 auto;
 	width: 250px;
@@ -124,7 +124,7 @@ body .c-card__content li {
 	position: relative;
 }
 body .c-card__content li:before {
-	content: “”;
+	content: "";
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -218,19 +218,19 @@ body .t-section-wrapper.t-section-head {
 	text-decoration: none;
 }
 body .t-section-wrapper.section--one {
-	background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Video_BG.jpg?fit=crop”) no-repeat center bottom/cover ;
+	background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Video_BG.jpg?fit=crop") no-repeat center bottom/cover ;
 }
 body .t-section-wrapper.section--two {
-	background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Interlaken-Article-.jpg?fit=crop”) no-repeat center bottom/cover ;
+	background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Interlaken-Article-.jpg?fit=crop") no-repeat center bottom/cover ;
 }
 body .t-section-wrapper.section--three {
-	background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Sky-Dive-Article-V2.jpg?fit=crop”) no-repeat center bottom/cover ;
+	background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Sky-Dive-Article-V2.jpg?fit=crop") no-repeat center bottom/cover ;
 }
 body .t-section-wrapper.section--four {
-	background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Jungfrau-Article-.jpg?fit=crop”) no-repeat center bottom/cover ;
+	background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Jungfrau-Article-.jpg?fit=crop") no-repeat center bottom/cover ;
 }
 body .t-section-wrapper.section--five {
-	background: url(“https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_5_Desktop.jpg”) no-repeat center bottom/cover ;
+	background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_5_Desktop.jpg") no-repeat center bottom/cover ;
 }
 body .o-lander--post-cards {
 	padding-bottom: 0;
@@ -319,19 +319,19 @@ body .o-lander--post-cards:before {
 		font-size: 1.15rem;
 	}
 	body .t-section-wrapper.section--one {
-		background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Video_BG.jpg?fit=crop”) no-repeat center bottom/100% auto ;
+		background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Video_BG.jpg?fit=crop") no-repeat center bottom/100% auto ;
 	}
 	body .t-section-wrapper.section--two {
-		background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Interlaken_Mobile.jpg?fit=crop”) no-repeat center bottom/100% auto ;
+		background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Interlaken_Mobile.jpg?fit=crop") no-repeat center bottom/100% auto ;
 	}
 	body .t-section-wrapper.section--three {
-		background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Sky-dive_Mobile.jpg?fit=crop”) no-repeat center bottom/100% auto ;
+		background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Sky-dive_Mobile.jpg?fit=crop") no-repeat center bottom/100% auto ;
 	}
 	body .t-section-wrapper.section--four {
-		background: url(“https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Jungfrau_Mobile.jpg?fit=crop”) no-repeat center bottom/100% auto ;
+		background: url("https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2023/01/Jungfrau_Mobile.jpg?fit=crop") no-repeat center bottom/100% auto ;
 	}
 	body .t-section-wrapper.section--five {
-		background: url(“https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_5_Mobile.jpg”) no-repeat center bottom/100% auto ;
+		background: url("https://mpora-static.s3.amazonaws.com/images/swiss-2021/Article_5_Mobile.jpg") no-repeat center bottom/100% auto ;
 	}
 	body .t-section-wrapper.t-section-head .desc,
 	body .t-section-wrapper.t-section-head h3,
