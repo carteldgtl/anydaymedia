@@ -14,14 +14,6 @@ body.single-lander .c-lander-heading img {
 	display: block;
 }
 
-
-@media (min-width: 1200px) {
-
-	body.single-lander .c-lander-heading img {
-		max-width: 70%;
-	}
-}
-
 body.single-lander .c-lander-heading__title {
 	padding: 0;
 	text-align: center;
